@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "name": "Burak",
+            "surname": "Şaman",
+            "profileImage": "https://avatars.githubusercontent.com/Buraksmn",
+            "email": "11",
+            "password": "11"
+        },
+        {
+            "name": "Zeynep",
+            "surname": "Bilici",
+            "profileImage": "https://media-exp1.licdn.com/dms/image/C4D03AQEUiAegMidPrA/profile-displayphoto-shrink_400_400/0/1641132616249?e=1674086400&v=beta&t=xJU19NubIaCNzW-oSUdRGuamz0u7fbJ3ld-jQgKSskk",
+            "email": "bilicizeynep29@gmail.com",
+            "password": "1122"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fad390",
+      "marginVertical": 15,
+      "padding": 20,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderRadius": 10,
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontWeight": "500",
+        }
+      }
+    >
+      Test Nedir
+    </Text>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontWeight": "500",
+          }
+        }
+      >
+        X
+      </Text>
+    </View>
+  </View>
+  <Text
+    style={
+      Object {
+        "fontWeight": "300",
+      }
+    }
+  >
+    Test Nedir Açıklaması
+  </Text>
+</View>
+`;

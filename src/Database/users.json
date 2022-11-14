@@ -1,0 +1,11 @@
+[
+    {
+        "userId": 1,
+        "name": "Burak",
+        "surname": "Şaman",
+        "phone": "05393583990",
+        "email": "buraksmn0@gmail.com",
+        "password": "saman1",
+        "profileImage": "https://avatars.githubusercontent.com/Buraksmn"
+    }
+]
